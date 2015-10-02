@@ -1,6 +1,8 @@
 // change the scriptURL variable to add your own script file. This one links to our TableThat bookmarklet.
 
-var scriptURL = "https://scripts.shpg.org/TableThis.js";
+// var scriptURL = "https://scripts.shpg.org/metaTagChecker.js";
+
+var scriptURL = "http://testing.shareprogress.org/bookmarklets/metaTagChecker.js";
 
 
 if (window.jQuery) { 
